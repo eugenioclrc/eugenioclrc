@@ -1,2 +1,3 @@
+
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://github.com/eugenioclrc/eugenioclrc/blob/main/nice.jpg?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; background-size: auto 100vh; background-repeat: repeat-x; background-position: calc(50vw - 1000px) center; opacity: 0.5; background: url('https://github.com/0xvanbeethoven/0xvanbeethoven/blob/main/nice.jpg?raw=true');]{x0000}$}
